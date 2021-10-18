@@ -1,0 +1,374 @@
+#EXTM3U
+#EXTINF:-1,group-title="•••GENERALE•••"
+#EXTINF:-1,PRO TV HD s1
+acestream://ce031754304ebc147b8108a149b030601f360124
+#EXTINF:-1,PRO TV HD s2
+acestream://77744593df58cbf991268658d304a9ef5559da32
+#EXTINF:-1,PRO TV HD s3
+acestream://83a5d7cd8623ad0e0ca76fb0330eb148901321da
+#EXTINF:-1,ANTENA 1
+acestream://6f95cb52777cf03fb0da3bd927dda9c7729e2eba
+#EXTINF:-1,ANTENA 1 HD
+acestream://7f30ddb4a938f6257343e6de0aba0b5d222ac59a
+#EXTINF:-1,ANTENA STARS
+acestream://7f30ddb4a938f6257343e6de0aba0b5d222ac59a
+#EXTINF:-1,ANTENA COMEDY
+acestream://e28a4226e7591acb7dbe21ddba6f6dc6f39a2a77
+#EXTINF:-1,Antena Comedy 
+acestream://25c5b85ea57ac65f0461f4f47d3630229fcdd90d
+#EXTINF:-1,PRIMA TV s1
+acestream://872ed8aeba3fcfc5eeacf05a9f7bc1d6df428e28
+#EXTINF:-1,PRIMA TV s2
+acestream://a9d87f461fc16aeb6b0dc84fdc474a8d20b0e0ca
+#EXTINF:-1,PRIMA TV  s3
+acestream://01f1cc5686bedf98a43385749af58286e272e6f6
+#EXTINF:-1,PRIMA TV  s4
+acestream://1ee5008c81a44489925939a35f96434c961cd02b
+#EXTINF:-1,PRIMA TV  s5
+acestream://07babef86b8b850636b5c40c5ae60f30ec2d5828
+#EXTINF:-1,PRO 2
+acestream://4809d17080993f7ca00d4e9e4e6e4aaf19b84c2d
+#EXTINF:-1,PRO X
+acestream://813a474832768ded2e012d58236f686a7ed9274a
+#EXTINF:-1,ProX
+acestream://654082b6f8e6cb76a70edb72914bdcf9b2722745
+#EXTINF:-1,B1
+acestream://20f8f66659c7b49a140e87002b469dbb3da551d9
+#EXTINF:-1,TVR 1 hd
+acestream://e2f2cca9abb5a0c650ebbed54efaaf6e0b14a467
+#EXTINF:-1,TVR 1 s2
+acestream://97aa76b4aeab37db231ea6211774ada1d97bc928
+#EXTINF:-1,TVR International 
+acestream://a37abadd33171d1e0a58874a3ae59934a9576009
+#EXTINF:-1,TVR INTERNATIONAL HD
+acestream://573861ccc1e498f6f5c170b42925fd3470a39235
+#EXTINF:-1,TVR International hd
+acestream://390fa71760ca39ab7146f87458575a42f5caa18b
+#EXTINF:-1,KANAL D HD
+acestream://0976f71c4cdbe1d651580012e8e542e815320818
+#EXTINF:-1,KANAL D
+acestream://bc6e307d824e6f6ade64d28e148b5dad14c1ebad
+#EXTINF:-1,National TV s1
+acestream://dd1bdf1e1cfac92c3ad53c92c15170b3185d63cb
+#EXTINF:-1,National TV s2
+acestream://52b9d443dd0ba681694955e523f63c9c1838b890
+#EXTINF:-1,National TV s3
+acestream://18e37fac4575a1cfd2f58a3fe325cbf7f2866274
+#EXTINF:-1,group-title="•••FILME•••"
+#EXTINF:-1,HBO
+acestream://da04e1064d473d995db314e9bb1581259253ffe8
+#EXTINF:-1,HBO 2
+acestream://640b1df01d3c392f19c7f2f6fdb8e465eb79b56a
+#EXTINF:-1,HBO 3
+acestream://eecaee1f1980d2da652568dad75e4474d9bbbca9
+#EXTINF:-1,FILMNOW
+acestream://1279e0931865be3244428c52a72dc997f6cb5c18
+#EXTINF:-1,Disney Channel 
+acestream://2db705d4f8638ce919446d1d2887a0cdcb9beb63
+#EXTINF:-1,PRO Gold
+acestream://6a9b45897dc5cf272949691683f3a2f301504e4a
+#EXTINF:-1,Pro cinema
+acestream://b017322bb685d68767f80c8f63b3eb7935669dc9
+#EXTINF:-1,group-title="•••STIRI•••"
+#EXTINF:-1,ROMANIA TV
+acestream://6594b61ba6dcf0441310cf3274bda5bbc7b27fc7
+#EXTINF:-1,REALITATEA TV
+acestream://198d75595156efec2d463b6b0fcdd105c56d3cc7
+#EXTINF:-1,REALITATEA TV S1
+acestream://55124d81a0a122732b82fd7ac0f17cd5677b5151
+#EXTINF:-1,REALITATEA TV S2
+acestream://df60aa6c92b4c8e651d885728e901bd5110ce484
+#EXTINF:-1,ANTENA 3
+acestream://ac8a4ce784f02a721f0a2c05abd547118d4516f9
+#EXTINF:-1,ANTENA 3 S1
+acestream://6f3e82f7bf1d325fbe9f3ca533aa11ec1e59e2aa
+#EXTINF:-1,ANTENA 3 S2
+acestream://6b74fc5ac7cf263e592ccb23800660b1220df778
+#EXTINF:-1,group-title="•••DOCUMENTARE•••"
+#EXTINF:-1,History Channel 
+acestream://af9d26f05efeeae8977e45d3f18baafc727539f9
+#EXTINF:-1,ID Investigation Discovery
+acestream://ca0042097159a6012e89379b627f966bf41c741b
+#EXTINF:-1,ID Fashion hd
+acestream://c79ea093eb4bf2c7a7659b5e18eb1508d6c9a48e
+#EXTINF:-1,Investigation Discovery
+acestream://8aec10d1f98d4cc315688a87b28bee7600796306
+#EXTINF:-1,Discovery s1
+acestream://b8a8c368ac608424b16ab615ca48ecc86c8764dc
+#EXTINF:-1,Discovery s2
+acestream://91801ba849d58cd5df5fbfd1d5f0bbc712d6e24b
+#EXTINF:-1,National Geography
+acestream://47a7fe7c2b6271746076a618d6286165575ac0d4
+#EXTINF:-1,TLC
+acestream://23e9be076fdcf62bf623a8dd72b0e65d8fe3cdab
+#EXTINF:-1,TLC sd
+acestream://3c00056dbdeff902d15e8bbb38606ef0db9809c0
+#EXTINF:-1,Viasat History 
+acestream://261afc837d87db04a77628cfcab858098001c566
+#EXTINF:-1,Viasat History sd
+acestream://dbce9cf50a27b23c0de621d69bc0c910f6d9b3f1
+#EXTINF:-1,Viasat History sd s1
+acestream://5c6e457d49126b30f7c9e0d0b0dd4544506b42f5
+#EXTINF:-1,Discovery Science
+acestream://33d8726505f84deebe7ea3beab9014418639f9d1
+#EXTINF:-1,Discovery Science s1
+acestream://18808be921c863123f811a891e3b3b7160f08f02
+#EXTINF:-1,National Geography ru
+acestream://18fc708de5b77dfe5b0a4162a758db52035c1b59
+#EXTINF:-1,NatGeo Wild
+acestream://a8931d97ad9e925d9659b006d37ec2ab1101c393
+#EXTINF:-1,NatGeo Wild s1
+acestream://23c2ba9f7d91a690fb557cc5ed81b7054c76bc8a
+#EXTINF:-1,Viasat Explorer
+acestream://23c2ba9f7d91a690fb557cc5ed81b7054c76bc8a
+#EXTINF:-1,Viasat Explorer s1
+acestream://0f80fe5bd6aabba190cb729125f82f9d69359572
+#EXTINF:-1,Crime Investigation sd
+acestream://86b6db01d8081c0cb1e203a1a61ff1687dea36ea
+#EXTINF:-1,Crime Investigation 
+acestream://c000fb8ead8ba47f0425870bfccbf674a09ce504
+#EXTINF:-1,BBC Earth
+acestream://9d0c99bc76611b7e36d8e103e9e7babbd8ed9265
+#EXTINF:-1,Travel Channel sd
+acestream://c5273075b1d933b249f3c028c9a493388ed17386
+#EXTINF:-1,Travel Channel 
+acestream://0a11cbaa9365f813617caa8d7232573b07de814e
+#EXTINF:-1,Travel Channel hd
+acestream://bd52fd956d05504de2cf8522018b3f7c4c82f285
+#EXTINF:-1,TV Paprika
+acestream://54e9427b2d50a273ad886f022b057da243bab1a2
+#EXTINF:-1,TV Paprika sd
+acestream://d683456789772e632bbbfcde064ffd5fc51b72f7
+#EXTINF:-1,Viasat Nature 
+acestream://9c6d4fa4d8587652bf92729b5979cc4e09e6bd2c
+#EXTINF:-1,Animal Planet hd
+acestream://fc1a6d1bf6ccefab8162621b7896338007110d37
+#EXTINF:-1,Animal Planet HD s1
+acestream://815daf9ba05ea77cf0fc67771359548eb08a41cd
+#EXTINF:-1,Fishing & Hunting 
+acestream://6b243fe258d84109ea4d50a5e18f99f83e930ff5
+#EXTINF:-1,Discovery turbo extra
+acestream://b175915dc89ad5569bac6d53067c86ba2b7a9b4c
+#EXTINF:-1,Discovery turbo extra s1
+acestream://8b35dd005406db5268b657283ac6b648a0b1b162
+#EXTINF:-1,Discovery turbo extra s2
+acestream://42118d3d5389d7bed5174d72b5349125cd1ee85b
+#EXTINF:-1,Fine Living
+acestream://47f955cd62c5de97ad19b0c23ed7c59c227adbab
+#EXTINF:-1,DocuBox sd
+acestream://5f070aa59e2a3bbcfc086b4f9b4115d3712b2886
+#EXTINF:-1,DocuBox
+acestream://49d17774df7aeb55d6abda812732c70875c416d0
+#EXTINF:-1,DocuBox s1
+acestream://f0ea243f79c62258b54e5534efda52a8c4975fe3
+#EXTINF:-1,EEntetraiment
+acestream://a35ff01f96eed87993261cfbf405bf63d1e08d6d
+#EXTINF:-1,NASA Tv
+acestream://bcefbe1d87816fc1879ebc7d599c2dd61726456f
+#EXTINF:-1,NASA TV s1
+acestream://17a25bf2ca814ae2c35f316b5cfed9032035a88e
+#EXTINF:-1,NASA TV s2
+acestream://d9544d03dc1e6d9b5b5edafe3a2b0242924383ab
+#EXTINF:-1,Fashion tv hd
+acestream://7c89e5c74ac1081593c7f928f9ae1f317e1a8c65
+#EXTINF:-1,Fashion tv s1
+acestream://d79f208b8e66ae3e50a08ed468389a0022bdc191
+#EXTINF:-1,Fashion tv Paris
+acestream://0fe21f9252424511dfb7999fe776435de6bc14a1
+#EXTINF:-1,Fashion tv sk
+acestream://22dfbe1a3afe9c143a63c0f83ed76eed7f603a69
+#EXTINF:-1,Fashion tv en
+acestream://cf1edf22ab813daf05caa9d415087e29e5865b21
+#EXTINF:-1,Fashion &Lifestyle 
+acestream://8ab8fc535cd0c10e53b96d4343d8c4e087d88d8d
+#EXTINF:-1,Fashion &Lifestyle ua
+acestream://98de5970748849fce92cb018c1e149be9d4da977
+#EXTINF:-1,Fashion&Lifestyle hd
+acestream://31a6c7d94b5aa5706713335be23b434fbd44c0e3
+#EXTINF:-1,CGTN
+acestream://0c11781c649082c6f3100f82fad480262abd79e9
+#EXTINF:-1,group-title="•••SPORT•••"
+#EXTINF:-1,Telekom 1 s1
+acestream://a5c19d3245596ee3ed528468368e97b0467a5995
+#EXTINF:-1,Telekom 1 s2
+acestream://782603a7560ee19ea137ae7f920585023befdce7
+#EXTINF:-1, Telekom 2
+acestream://6681e966c41f088270ff5fc8a599f98412a9c568
+#EXTINF:-1, Telekom 2 s1
+acestream://5ff281e7b736fbfb35059f14d04b2ef57512c3a0
+#EXTINF:-1, Telekom 3
+acestream://7f9c6a166582ebbfc221f9ced3e876ef78ca5496
+#EXTINF:-1,Telekom 4
+acestream://63d9a801e7c66406f5e2962350cc17eff062f580
+#EXTINF:-1,Digi sport 1 hd
+acestream://c575315526a0b6a1a75bd6ebe548b62b7dc50a82
+#EXTINF:-1,Digi sport 1 
+acestream://4a4294c72188e91e24b8dd9f49246ba8c9307170
+#EXTINF:-1,Digi sport 2 s1
+acestream://144909db8d0119e42e0b89810de615e2ad425ebe
+#EXTINF:-1,Digi sport 2 s2
+acestream://3b3d22e60aa72aff95a92e7667878f63ba898a50
+#EXTINF:-1,Digi sport 2 s3
+acestream://bee84a014a366f9de86a32c14f67b3905364806d
+#EXTINF:-1, Digi sport 2 s4
+acestream://96301308f598c999279e27d035cfd78d4ec46546
+#EXTINF:-1, Digi sport 2 hd
+acestream://b59b26878e76f59371e0d7df879cfd1f656dad90
+#EXTINF:-1, Digi sport 3 s1
+acestream://13ee042b7446275702d30f4c7a87ee889c21c3d0
+#EXTINF:-1, Digi sport 3 s2
+acestream://231fb48c3146dae34b2f84201a77bf9e340d3f70
+#EXTINF:-1, Digi sport 3 s3
+acestream://844d1119a396626bbbe290c2e5918079e1525224
+#EXTINF:-1, Digi sport  4 hd
+acestream://ede354f7f0ca2009484a0795180031d24ffeec9d
+#EXTINF:-1,Digi sport  4 s2
+acestream://705a6932b25f9aaf4fbab86a4bc4ac9820e1276b
+#EXTINF:-1,Look sport 1 s1
+acestream://4fcc05b9342cfd48ab019400457716ac83c31ffd
+#EXTINF:-1,Look sport 1 s2
+acestream://9022bb928842ca2c907861c259693ad29019b0fd
+#EXTINF:-1,Look sport 1 s3
+acestream://e48fbc4bc8b2d6a8788c1a26946758ab0b7debb6
+#EXTINF:-1, Look sport 1 s4
+acestream://9393198ac875ea42dc379f38848a174063af44ef
+#EXTINF:-1,Look sport 1 s5
+acestream://0a47d1f440c97b14ca1638725b1fbb8988419df5
+#EXTINF:-1, Look sport 1 s6
+acestream://70a0aa00d10b603480284d764d3ae54c5c037954
+#EXTINF:-1, Look sport 1 s7
+acestream://86f5a0c1faa8082ea79b9a15dff231e04d37bb20
+#EXTINF:-1, Look sport 1 s8
+acestream://1cf6e4a557c65ac1e76d35825104c6fa55991c06
+#EXTINF:-1,Look sport 1 s9
+acestream://5ca669ccb31d6300ce4b8a024fe69374dae9907e
+#EXTINF:-1, Look sport 1 s10
+acestream://490ca4a6db7ae2962badc7a9d279604a4655c385
+#EXTINF:-1,Look sport 1 s11
+acestream://49b5916064a648b98787afb330bd31ed461dc76c
+#EXTINF:-1,Look sport 1 s12
+acestream://4da0ca26f6343331ec01fcb4c4a09cf4d9fa187f
+#EXTINF:-1,Look sport 1 s13
+acestream://e102558547e2d5dda92f2d9b663bd6dfd9beccd7
+#EXTINF:-1,Look sport 2 s1
+acestream://e34f5e5a65454c57cf863e7ac6acd50e86708f37
+#EXTINF:-1, Look sport 2 s2
+acestream://ca41eec742e7845a3786e0c7c3aae2aaabf8afa3
+#EXTINF:-1, Look sport 2 s3
+acestream://0a48def8d0b04fb263437e50697ca5fb1c168806
+#EXTINF:-1, Look sport 2 s4
+acestream://1363110fbe62eae88d40102bca20713c6d64a7a1
+#EXTINF:-1,Look sport 2 s5
+acestream://ff776bd9be175b1e8e85963368a1eb17a5b7c2f3
+#EXTINF:-1,Look sport 2 s6
+acestream://3fe6c34cb8ba5b14c24d73bbc3108f90cf225daa
+#EXTINF:-1,Look sport 2 s7
+acestream://1363110fbe62eae88d40102bca20713c6d64a7a1
+#EXTINF:-1,Look sport 3 s1
+acestream://65c4360ad9506d27c4ed7d824ce6338116d4ef6e
+#EXTINF:-1, Look sport 3 s2
+acestream://5b2499be25a93b5df0299e6072f1426b88b65c47
+#EXTINF:-1,Look sport 3 s3
+acestream://faf1da4725ef95c2efad43f6adfceb491ec3375e
+#EXTINF:-1, Look sport 3 s4
+acestream://cbb81a92989b5f744ab4520416ec3491e80815b7
+#EXTINF:-1,Look sport 3 s5
+acestream://ac995f71e54dfbdb2b4be55349333947a8e4288c
+#EXTINF:-1,Look plus s1
+acestream://3ade660d3dfc3688925aa237c800d1ffaf433d17
+#EXTINF:-1,Look plus s2
+acestream://79e96be47a6e864e611c47df50b967271d48a33d
+#EXTINF:-1,Look plus s3
+acestream://45409eac3b43e28337ba139a5850a60205af6bd5
+#EXTINF:-1,Look plus s4
+acestream://9e9d154e18730cff38bfdfb5a1115253fcacf8bd
+#EXTINF:-1,Look plus s5
+acestream://ad7b6f08695ec24d648fc829e1d6a999588cea11
+#EXTINF:-1, Look plus s6
+acestream://f8391257a7b77a4042819daaed89a885a2a67f58
+#EXTINF:-1, Look plus s7
+acestream://c478eac491ec2275bae26490c00cc53015968997
+#EXTINF:-1,Look plus s8
+acestream://45409eac3b43e28337ba139a5850a60205af6bd5
+#EXTINF:-1, Look plus s9
+acestream://91d2da957e50ded0fa4901f057c37b0294eec8c9
+#EXTINF:-1,Eurosport 1 s1
+acestream://a020f56162ff397b9c28a547ddbfdb283b458c0a
+#EXTINF:-1,Eurosport 1s2
+acestream://05ab80159f197682481151e0ec9a095ccf30ed8e
+#EXTINF:-1,Eurosport 2 s1
+acestream://aee63957f309b2a1ac5b608d835a125103fc6f79
+#EXTINF:-1,Eurosport 2 s2
+acestream://a809d02900d84d07dd3e8b82ba68274f66784972
+#EXTINF:-1,Eurosport 2 s3
+acestream://2d7347cbb5b3e3f45ef9ccc3ab7f115dc2c11c10
+#EXTINF:-1,Eurosport 2 s4
+acestream://aee63957f309b2a1ac5b608d835a125103fc6f79
+#EXTINF:-1,Eurosport 4k
+acestream://2b144c8092d6be0ac1f68d2660ef5e0aaaba0306
+#EXTINF:-1,Sky sport 24 it
+acestream://4fcc05b9342cfd48ab019400457716ac83c31ffd
+#EXTINF:-1,Sky sport austria
+acestream://f1eb19e0733f7be5546a09f2aa89ff6b4d986767
+#EXTINF:-1,Sky sport austria hd
+acestream://f1eb19e0733f7be5546a09f2aa89ff6b4d986767
+#EXTINF:-1,Sky sport De
+acestream://c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
+#EXTINF:-1,Sky sport DE
+acestream://bf1c1973456c16eeb0dc6a2ce897b65c8f721706
+#EXTINF:-1,Eleven sports 1
+acestream://5f7ba5cddba6d44435b75e28649b00393bbf2dc4
+#EXTINF:-1,M4 sport hd
+acestream://ddc6021f6119db29da2d49749a16278f572d377c
+#EXTINF:-1,Setanta sport Ucraina
+acestream://1512fb17842a64e7cecbc5a987ebf44e00a0b0ad
+#EXTINF:-1,Setanta sports fhd
+acestream://43b62f1e3f0357f36a54f03510d1c356a1bfbf10
+#EXTINF:-1,SeSport 2
+acestream://4dfb535a08ce667b16d09b090717d93842a384a4
+#EXTINF:-1,Setanta sport 2 FHD
+acestream://2d9ad6d48cf6e2f9b790c6fa85ec6483a933c090
+#EXTINF:-1,Setanta sport Ucraina uhd
+acestream://c6deb33b579ad88e367854e21c8e4aa4597cbc44
+#EXTINF:-1,Arena sport Sk
+acestream://e4c0aff2c98cc3bd09f678325ae09d8d560f2705
+#EXTINF:-1,Fox sport News
+acestream://24564a46bdf2f816bcaba4ef2371fd2ab3b0a067
+#EXTINF:-1,Fox sport News s1
+acestream://24564a46bdf2f816bcaba4ef2371fd2ab3b0a067
+#EXTINF:-1,Rai sport hd
+acestream://8ed8b08cd78d0e6bd88633f6070319f231d65f11
+#EXTINF:-1,Rai sport +hd
+acestream://58ff5cca697451b1ead7300eb812f237725ce777
+#EXTINF:-1,Arena 1
+acestream://89ad69283850719f33610ad23dd539ee1bb40921
+#EXTINF:-1,Arena 1s1
+acestream://77d6d3be3203cdbd22ad679b380e20edab71e82c
+#EXTINF:-1,Polsat fight
+acestream://da7c0eb7faa4c16eb99f901103720c047308bbc3
+#EXTINF:-1,TVP SPORT
+acestream://ed26b1a03f273eda66dc76d43e0162cc884e56a2
+#EXTINF:-1,2x2
+acestream://f9de11ffa30bd25479e412945d5cf25715ee5772
+#EXTINF:-1,TRT SPORT 
+acestream://d739c631ec0a21590a1d46d77c867f3c91f298f3
+#EXTINF:-1,Fight box hd
+acestream://ddfa71c1c676887fb06b1e732e2bbe37900fda72
+#EXTINF:-1,Fightclub hd
+acestream://176afce7bf6860f1b848cbd29152bf20e79ad206
+#EXTINF:-1,Polsat fight hd
+acestream://da7c0eb7faa4c16eb99f901103720c047308bbc3
+#EXTINF:-1,KOK FIGHT ro
+acestream://4f9720e0eb96e8df79c8b2b0d8094640b2b7c746
+#EXTINF:-1,Fightbox
+acestream://ddfa71c1c676887fb06b1e732e2bbe37900fda72
+#EXTINF:-1,Belarus 5 hd
+acestream://24d8d60fd53e1babb6a9f8d888eddb8ceb390ba6
+#EXTINF:-1,Futbol 1 ua
+acestream://f20d7ffa0fb9ad0811e5d2cb7f8db74d45a5649f
+#EXTINF:-1,Liga de Campeones
+acestream://43baa7688c0414f108bc5be86d90764cbecf7bbe
+#EXTINF:-1,Liga de Campeones 1
+1df997e20aef99a104de2b42abc218ab240c5005
+#EXTINF:-1,Vamos hd
+4193981c3e674ec3392570c5b04da7f1017deced
